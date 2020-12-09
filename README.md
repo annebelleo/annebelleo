@@ -5,7 +5,7 @@ My name is Annebelle (she/her/hers), I'll keep it short:
 📚   Psychology & Technology student at <a href="http://tue.nl">TU/e</a>  
 💻   Strongest language: Python, First language: Ruby  
 👯   Most recent side project: <a href="http://studytour2020.intermate.nl">a nice website</a>  
-🔗   Find my handles + resume <a href="https://annebelleo.github.io">here</a>  
+🔗   Find my handles + CV <a href="https://annebelleo.github.io">here</a>  
 👧🏽   For funsies: I'm a <a href="http://kodewithklossy.com">Kode With Klossy</a> alum (2016, 2017)
 <!--
 **annebelleo/annebelleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

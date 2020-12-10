@@ -3,7 +3,7 @@
 My name is Annebelle (she/her/hers), I'll keep it short:  
 
 📚   Psychology & Technology student at <a href="http://tue.nl">TU/e</a>  
-💻   Strongest language: Python, First language: Ruby, Most recently learned: Java  
+💻   Strongest language: Python, First language: Ruby  
 👯   Spending my free time <a href="https://www.instagram.com/studytourintermate2021/">planning a big trip</a>   
 🌻   Most recent project: <a href="http://studytour2020.intermate.nl">a nice website</a>  
 🔗   Find my handles + CV <a href="https://annebelleo.github.io">here</a>  

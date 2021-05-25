@@ -4,7 +4,7 @@ My name is Annebelle (she/her/hers), I'll keep it short:
 
 📚   Psychology & Technology student at <a href="http://tue.nl">TU/e</a>  
 💻   Strongest language: Python, First language: Ruby    
-🌱   Learning how to Linear Algebra (and acquiring those ECs)    
+🌱   Learning how to Linear Algebra (and acquiring ECTS 😉)    
 🔗   Find my handles + CV <a href="https://annebelleo.github.io">here</a>  
 👧🏽   For funsies: I'm a <a href="http://kodewithklossy.com">Kode With Klossy</a> alum (2016, 2017)
 <!--
